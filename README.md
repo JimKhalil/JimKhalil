@@ -1,4 +1,9 @@
 <div align="center">
+  <!-- Taruh link GIF abang di antara tag quote src="DI SINI" -->
+  <img src="[https://media.giphy.com/media/hqBq8I6f44f5Z3x8G8/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTZzYzRsb3AydHQ2cDRkejZwd25uNHU2amdwNDExNG9hMWxkaGh2cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/f3e3vLxB7TOuIxDVrX/giphy.gif)" alt="Ashiap" />
+</div>
+
+<div align="center">
   <!-- Abang bisa ganti link GIF di bawah ini dengan GIF sapaan yang abang suka -->
   <img src="https://media.giphy.com/media/hvRJCLFzcasr14yMy2/giphy.gif" width="30px">
   <h1>Halo, Saya Abi Ansyah! 👋</h1>
@@ -31,18 +36,4 @@
   <img src="https://img.shields.io/badge/Bcrypt-222222?style=for-the-badge" alt="Bcrypt" />
   <img src="https://img.shields.io/badge/Argon2-005571?style=for-the-badge" alt="Argon2" />
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="JSON Web Tokens" />
-</p>
-
----
-
-### 🤝 Mari Terhubung!
-
-<!-- Ganti link dengan akun sosial media abang -->
-<p align="center">
-  <a href="https://linkedin.com/in/[username-linkedin]" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/[username-instagram]" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
 </p>
