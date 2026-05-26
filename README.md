@@ -15,8 +15,11 @@
 
 ### 👨‍💻 Tentang Saya
 
-*   🔭 Saat ini saya sedang mengerjakan project **[Sebutkan project, misal: Web App berbasis Remix]**
-*   🌱 Saat ini saya sedang memperdalam **[Sebutkan teknologi, misal: React, TypeScript, dan Backend Development]**
+*   🌱 Saat ini saya sedang memperdalam **[<p align="left">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt="ASP.NET" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+</p>]**
 *   👯 Saya terbuka untuk kolaborasi di **[Project Open Source / Web Development]**
 *   💬 Tanya saya tentang **[Sebutkan keahlian, misal: Frontend, UI/UX, atau ngopi]**
 *   📫 Cara menghubungi saya: **[Email abang / Link LinkedIn]**
