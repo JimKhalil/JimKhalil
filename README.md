@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Taruh link GIF abang di antara tag quote src="DI SINI" -->
-  <img src="[https://media.giphy.com/media/hqBq8I6f44f5Z3x8G8/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTZzYzRsb3AydHQ2cDRkejZwd25uNHU2amdwNDExNG9hMWxkaGh2cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/f3e3vLxB7TOuIxDVrX/giphy.gif)" alt="Ashiap" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTZzYzRsb3AydHQ2cDRkejZwd25uNHU2amdwNDExNG9hMWxkaGh2cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/f3e3vLxB7TOuIxDVrX/giphy.gif" alt="Ashiap" />
 </div>
 
 <div align="center">
