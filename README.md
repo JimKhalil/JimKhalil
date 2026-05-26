@@ -15,11 +15,8 @@
 
 ### 👨‍💻 Tentang Saya
 
-*   🌱 Saat ini saya sedang memperdalam **
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt="ASP.NET" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
-**
+*   🌱 Saat ini saya sedang memperdalam **<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" /><img src="https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt="ASP.NET" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />**
 *   👯 Saya terbuka untuk kolaborasi di **[Project Open Source / Web Development]**
 *   💬 Tanya saya tentang **[Sebutkan keahlian, misal: Frontend, UI/UX, atau ngopi]**
 *   📫 Cara menghubungi saya: **[Email abang / Link LinkedIn]**
